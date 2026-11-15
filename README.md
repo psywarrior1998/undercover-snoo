@@ -14,7 +14,7 @@
 
 **A daily 60-second social deduction and Turing-test game where Redditors spot the AI bot disguised among authentic high-karma comments.**
 
-[🎮 Play Live Demo on Reddit](https://www.reddit.com/r/subtext_game_2026) • [🏆 Devpost Submission](https://devpost.com) • [🛠️ Devvit App Dashboard](https://developers.reddit.com/apps/undercover-snoo)
+[🎮 Play Live Demo on Reddit](https://www.reddit.com/r/undercoversnoo_2026/comments/1xwxsml/welcome_to_rundercoversnoo_2026_official/) • [🏆 Devpost Submission](https://devpost.com) • [🛠️ Devvit App Dashboard](https://developers.reddit.com/apps/undercover-snoo)
 
 <br/>
 

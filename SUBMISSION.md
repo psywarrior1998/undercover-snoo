@@ -65,8 +65,8 @@ When players cast their accusation, real-time Devvit Redis counters show the ent
 ### 7. Official Submission Links
 * **GitHub Repository:** `https://github.com/psywarrior1998/undercover-snoo`
 * **App Listing Link:** `https://developers.reddit.com/apps/undercover-snoo`
-* **Test Subreddit:** `https://www.reddit.com/r/subtext_game_2026`
-* **Demo Post Link:** `https://www.reddit.com/r/subtext_game_2026` (Generated via Devvit)
+* **Test Subreddit:** `https://www.reddit.com/r/undercoversnoo_2026`
+* **Demo Post Link:** `https://www.reddit.com/r/undercoversnoo_2026/comments/1xwxsml/welcome_to_rundercoversnoo_2026_official/`
 
 ---
 
