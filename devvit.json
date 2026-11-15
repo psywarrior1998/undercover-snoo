@@ -1,0 +1,46 @@
+{
+  "$schema": "https://developers.reddit.com/schema/config-file.v1.json",
+  "name": "undercover-snoo",
+  "post": {
+    "dir": "dist/client",
+    "entrypoints": {
+      "default": {
+        "inline": true,
+        "entry": "index.html"
+      }
+    }
+  },
+  "server": {
+    "dir": "dist/server",
+    "entry": "index.cjs"
+  },
+  "permissions": {
+    "redis": true,
+    "reddit": {
+      "enable": true,
+      "asUser": [
+        "SUBMIT_COMMENT",
+        "SUBMIT_POST"
+      ]
+    }
+  },
+  "menu": {
+    "items": [
+      {
+        "label": "Create Today's Undercover Snoo Post",
+        "description": "Spawn today's daily Undercover Snoo puzzle post in this subreddit",
+        "endpoint": "/internal/menu/post-create",
+        "location": "subreddit",
+        "forUserType": "moderator"
+      }
+    ]
+  },
+  "scheduler": {
+    "tasks": {
+      "daily-post": {
+        "endpoint": "/internal/scheduler/daily-post",
+        "cron": "0 0 * * *"
+      }
+    }
+  }
+}

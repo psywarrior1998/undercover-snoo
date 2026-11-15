@@ -1,0 +1,5 @@
+Please open Reddit to continue:
+
+https://developers.reddit.com/new?source=win32&skip_oauth=true&skip_template=true&redirect_url=http%3A%2F%2Flocalhost%3A51999%2F%3Fstate%3D34fc29b9feef2182e26c20039a8b5cbe
+
+Press enter to open this link immediately...
